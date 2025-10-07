@@ -14,7 +14,7 @@ export default function QueryProcessor(query: string): string {
   }
 
   if (normalizedQuery.includes("name")) {
-    return "Rohan";
+    return "henryzhu";
   }
 
   return "";
